@@ -6,5 +6,5 @@ RandomNumberGenerator::RandomNumberGenerator(int min, int max) : gen(random_devi
 
 
 int RandomNumberGenerator::getRandomValue(){
-    return dist(gen);
+    return dist(gen); // returning dist with an engine
 }

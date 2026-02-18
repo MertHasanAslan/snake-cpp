@@ -1,0 +1,3 @@
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/rebuild_cache.dir

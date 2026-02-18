@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/raylib-populate
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/home/zorro/projects/snake-cpp/external/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
