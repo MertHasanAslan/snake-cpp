@@ -46,7 +46,9 @@ private:
     unordered_map<Vector2, CellType, Vector2Hash, Vector2Equal> boardMap;
     // 2d vector that stores initial level layout
     vector<vector<bool>> levelData;
-
+    
+    // transform the initial level layout to the board map
+    void transformLevelData();
 
 public:
     // constructor for board according to level layout
