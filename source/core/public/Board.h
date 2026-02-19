@@ -59,6 +59,10 @@ public:
     CellType getCellInfo(Vector2 position) const;
 
 
+    // set a cell type to a position
+    void setCellType(Vector2 position, CellType cellType);
+
+    
     // gets the level layout
     unordered_map<Vector2, CellType, Vector2Hash, Vector2Equal> getLevelData() const;
 
